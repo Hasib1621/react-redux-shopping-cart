@@ -1,3 +1,11 @@
+# Live Demo:
+https://react-redux-shopping-cart-v1.netlify.app/
+
+# About this project:
+This is a simple application where I implement a basic cart functionality with redux.
+
+Hook used:  useEffect, useDispatch and useSelector 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
