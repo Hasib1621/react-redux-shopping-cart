@@ -1,0 +1,23 @@
+.button {
+    background-color: transparent;
+    border-color: wheat;
+    color: wheat;
+}
+
+.button:hover,
+.button:active {
+    color: black;
+    background-color: wheat;
+    border: 3px solid white;
+}
+
+.button span {
+    margin: 0 0.5rem;
+}
+
+.badge {
+    background-color: wheat;
+    border-radius: 30px;
+    padding: 0.15rem 1.25rem;
+    color: #1d1d1d;
+}
